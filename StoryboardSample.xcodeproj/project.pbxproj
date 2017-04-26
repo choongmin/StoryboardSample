@@ -15,6 +15,7 @@
 		A59E0DB51EAF1A1E00BB77A7 /* PinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59E0DB41EAF1A1E00BB77A7 /* PinkViewController.swift */; };
 		A59E0DB71EAF1DD900BB77A7 /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59E0DB61EAF1DD900BB77A7 /* GreenViewController.swift */; };
 		A59E0DB91EAF1E7900BB77A7 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59E0DB81EAF1E7900BB77A7 /* BlueViewController.swift */; };
+		A59E0DBD1EAF383F00BB77A7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59E0DBC1EAF383F00BB77A7 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A59E0DB41EAF1A1E00BB77A7 /* PinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkViewController.swift; sourceTree = "<group>"; };
 		A59E0DB61EAF1DD900BB77A7 /* GreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
 		A59E0DB81EAF1E7900BB77A7 /* BlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		A59E0DBC1EAF383F00BB77A7 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				A59E0DB41EAF1A1E00BB77A7 /* PinkViewController.swift */,
 				A59E0DB61EAF1DD900BB77A7 /* GreenViewController.swift */,
 				A59E0DB81EAF1E7900BB77A7 /* BlueViewController.swift */,
+				A59E0DBC1EAF383F00BB77A7 /* LoginViewController.swift */,
 			);
 			path = StoryboardSample;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A59E0DBD1EAF383F00BB77A7 /* LoginViewController.swift in Sources */,
 				A59E0DB71EAF1DD900BB77A7 /* GreenViewController.swift in Sources */,
 				A59E0DB51EAF1A1E00BB77A7 /* PinkViewController.swift in Sources */,
 				A59E0DA51EAF130C00BB77A7 /* ViewController.swift in Sources */,
